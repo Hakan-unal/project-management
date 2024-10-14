@@ -10,7 +10,8 @@ const App = () => (
       <Title style={{ textAlign: "center" }} level={1}>
         Proje Yönetimi
       </Title>
-
+      <Paragraph>
+      </Paragraph>
       
     </Col>
   </Row>
